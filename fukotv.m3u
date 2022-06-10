@@ -211,7 +211,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
 http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="babytv" group-title="Quốc Tế" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2c660238ffec78dde85554a81a5b3274.jpeg",BabyTV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="dwahd" group-title="Quốc Tế" tvg-logo="https://www.vhv.rs/dpng/d/580-5808827_logo-dreamworks-logo-hd-png-download.png",DreamWorks
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thphd" group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u6EFhsVZIVSAVTkohVzogqcheEsMc8mwMA&usqp=CAU",Hải Phòng HD
 https://vtvgo-livedp.vtvdigital.vn/6bbe9ef80f8fa67b44b276b0024c8be1/1654841054273/haiphongtv/index.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
