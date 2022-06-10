@@ -1,7 +1,11 @@
 #EXTM3U by hdt
 
 
-#EXTINF:-1 tvg-id="c1" group-title="Camera" tvg-logo="",Camera Samples 1
-http://180.6.112.207:60001/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
-#EXTINF:-1 tvg-id="c2" group-title="Camera" tvg-logo="",Camera Samples 2
-http://180.177.186.212:80/webcapture.jpg?command=snap&amp;channel=1?1654854119
+#EXTINF:-1 tvg-id="f4k1" group-title="4K Fuko" tvg-logo="",Big Bug Bunny [4K]
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="f4k2" group-title="4K Fuko" tvg-logo="",Street Camera [4K]
+https://cdn.jwplayer.com/manifests/pZxWPRg4.m3u8
+#EXTINF:-1 tvg-id="f4k3" group-title="4K Fuko" tvg-logo="",China Sword Solo [4K]
+https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-id="f4k4" group-title="4K Fuko" tvg-logo="",Street Camera 2 [4K]
+https://playertest.longtailvideo.com/adaptive/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
