@@ -3,7 +3,7 @@
 #EXTM3U Contact : nghuyhieu2810@mail.folody.xyz | tuyentrandinh00@gmail.com
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#EXTVLCOPT:http-user-agent="vnn1269"
+#EXTVLCOPT:http-user-agent="FukoTV-Team"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
