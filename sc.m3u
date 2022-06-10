@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-id="tt" tvg-logo="https://pbs.twimg.com/profile_images/1282948867026108417/vliFlrUU_400x400.jpg",Miễn Phí 3G/4G/5G
 https://github.com/Folody-Team/fuko-tv/blob/main/video.mp4?raw=true
-#EXTINF:-1 tvg-id="f4k1" group-title="4K Fuko" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Big Buck Bunny [4K]
+#EXTINF:-1 tvg-id="f4k1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Big Buck Bunny [4K]
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="f4k2" group-title="4K Fuko" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Street Camera [4K]
+#EXTINF:-1 tvg-id="f4k2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Street Camera [4K]
 https://cdn.jwplayer.com/manifests/pZxWPRg4.m3u8
-#EXTINF:-1 tvg-id="f4k3" group-title="4K Fuko" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",China Sword Solo [4K]
+#EXTINF:-1 tvg-id="f4k3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",China Sword Solo [4K]
 https://test-streams.mux.dev/test_001/stream.m3u8
-#EXTINF:-1 tvg-id="f4k4" group-title="4K Fuko" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Street Camera 2 [4K]
+#EXTINF:-1 tvg-id="f4k4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Street Camera 2 [4K]
 https://playertest.longtailvideo.com/adaptive/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",VTC13 4K Thử Nghiệm
+#EXTINF:-1 tvg-id="vtc13hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",VTC13 4K Thử Nghiệm
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
