@@ -91,7 +91,7 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon | THIẾU NHI BỔ ÍCH
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1 HD 
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
@@ -99,23 +99,19 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР 
 http://92.46.127.146:8080/ntv/index.m3u8
-#EXTINF:-1 group-title="Dự phòng Đặc sắc" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="Trung ương" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Trung ương" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K
 http://85.192.10.131/hls/kultura/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng Đặc sắc" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K 
 http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng Đặc sắc" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 SD
-http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель 
 http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior 
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
