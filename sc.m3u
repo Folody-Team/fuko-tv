@@ -2,3 +2,6 @@
 
 
 #EXTINF:-1 tvg-id="c1" group-title="Camera" tvg-logo="",Camera Samples 1
+http://180.6.112.207:60001/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+#EXTINF:-1 tvg-id="c2" group-title="Camera" tvg-logo="",Camera Samples 2
+http://180.177.186.212:80/webcapture.jpg?command=snap&amp;channel=1?1654854119
