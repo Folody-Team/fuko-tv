@@ -110,6 +110,8 @@ http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="fxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX HD
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1 HD 
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР 
