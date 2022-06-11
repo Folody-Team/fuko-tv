@@ -238,7 +238,7 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thphd" group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u6EFhsVZIVSAVTkohVzogqcheEsMc8mwMA&usqp=CAU",Hải Phòng HD
 https://vtvgo-livedp.vtvdigital.vn/6bbe9ef80f8fa67b44b276b0024c8be1/1654841054273/haiphongtv/index.m3u8
-#EXTINF:-1 tvg-id="thphd" group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u6EFhsVZIVSAVTkohVzogqcheEsMc8mwMA&usqp=CAU",Hải Phòng 2 HD
+#EXTINF:-1 tvg-id="thpplus" group-title="Địa Phương" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/files/1567243862363.png ",Hải Phòng+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -262,8 +262,6 @@ https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501517/cmc_new/img.live_channel/0/0/0/0/136.jpg",Bình Dương 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="thpplus" group-title="Địa Phương" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/files/1567243862363.png ",Hải Phòng+ HD
-https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1570670399/cmc_new/img.live_channel/0/0/0/0/135.jpg",Bình Dương 2
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/26.jpg",Bình Phước 1 HD
