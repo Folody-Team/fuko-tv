@@ -72,12 +72,14 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png",VTC16 HD
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="onsport" group-title="VTVCab" tvg-logo="https://i.ibb.co/Lz3YTF5/t-i-xu-ng.jpg",ON Sport HD
+#EXTINF:-1 tvg-id="onsport" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/Lz3YTF5/t-i-xu-ng.jpg",ON Sport HD
 http://s2.nihontv.net:21585/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="golfhd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
+#EXTINF:-1 tvg-id="golfhd" group-title="VTVCab - SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 tvg-id="oshd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
+#EXTINF:-1 tvg-id="oshd" group-title="VTVCab - SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
 http://s2.nihontv.net:21585/vtvcab16/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="VTVCab - SCTV" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 HD
+https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htjpgpng",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",HTV2 HD
@@ -92,7 +94,6 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi" tvg-chno="25",HTV Thể Thao
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="espnhd" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512 ",ESPN HD
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rbhd" group-title="Quốc Tế" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
