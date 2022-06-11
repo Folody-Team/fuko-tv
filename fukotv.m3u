@@ -154,6 +154,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8?checkedby:iptvcat.co
 https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="nhkgr" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHKGeneralTV
 https://nhk2.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="foxs2" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png ",Fox Sports 2
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",BBC Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="baby_first" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
