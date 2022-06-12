@@ -173,7 +173,7 @@ http://30a-tv.com/sidewalks.m3u8
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Quốc Tế",3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="Quốc Tế", | 3ABN Français
+#EXTINF:-1  tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="Quốc Tế", 3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Quốc Tế",3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
@@ -235,7 +235,7 @@ https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
 http://iptv.watchhd.cc:5050/kelevra321
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Quốc Tế",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",AT&T SportsNet Pittsburgh
+#EXTINF:-1 tvg-logo="" group-title=Quốc Tế",AT&T SportsNet Pittsburgh
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJXrUskTz1LcV2fbMFuv9gk/ts
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT&T SportsNet Rocky Mountain
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDHTu33BwLpH-f2RwhDrq28/ts?checkedby:iptvcat.com
@@ -265,11 +265,11 @@ http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/c
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Atlanta Hawks
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136876
-#EXTINF:-1 tvg-logo="" group-title="Undefined",BBC America
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BBC America
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2985
-#EXTINF:-1 tvg-logo="" group-title="Undefined",BLK TV Hohenm�lsen
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BLK TV Hohenm�lsen
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Undefined",Bloomberg Mỹ
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bloomberg Mỹ
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2990
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BNCgo
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137014
@@ -281,7 +281,7 @@ http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136956
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bally Sports Arizona HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/44317.ts
-#EXTINF:-1 tvg-logo="" group-title="Sport",Barstool Sports
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Barstool Sports
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137036
 #EXTINF:-1 tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="Quốc Tế",Beach TV 
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
