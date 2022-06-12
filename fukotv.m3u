@@ -235,7 +235,7 @@ https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
 http://iptv.watchhd.cc:5050/kelevra321
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Quốc Tế",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=Quốc Tế",AT&T SportsNet Pittsburgh
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT&T SportsNet Pittsburgh
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJXrUskTz1LcV2fbMFuv9gk/ts
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT&T SportsNet Rocky Mountain
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDHTu33BwLpH-f2RwhDrq28/ts?checkedby:iptvcat.com
@@ -275,7 +275,7 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2990
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137014
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bounce
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137054
-#EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Local",BUTV10 (Boston University)
+#EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Quốc Tế",BUTV10 (Boston University)
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BUZZR
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136956
