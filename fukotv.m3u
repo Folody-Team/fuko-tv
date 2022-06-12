@@ -117,7 +117,7 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Quốc Tế",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:0  tvg-logo="" group-title="Quốc Tế",One [Yêu cầu VPN]
+#EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/91/One_TV_Asia.png/revision/latest/scale-to-width-down/340?cb=20220417032905&path-prefix=vi" group-title="Quốc Tế",One 
 http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT-X
 
