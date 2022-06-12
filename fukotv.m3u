@@ -107,7 +107,7 @@ https://magselect-stirr.amagi.tv/playlist720p.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="Quốc Tế",Arirang Hàn HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="Undefined",GCN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="Quốc Tế",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Quốc Tế",Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
