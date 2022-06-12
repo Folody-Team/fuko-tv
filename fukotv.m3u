@@ -129,6 +129,20 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K 
 http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Quốc Tế",ASTV News 1,News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Quốc Tế",Bayon TV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Quốc Tế",Channel 5 HD
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Quốc Tế",News 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Quốc Tế",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Quốc Tế",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Quốc Tế",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель 
