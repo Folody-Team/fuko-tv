@@ -339,7 +339,7 @@ https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8?check
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwUtlBi.png" group-title="Quốc Tế",Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Undefined",Big Life
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Quốc Tế",Big Life
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Big World
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137004?
