@@ -5,8 +5,6 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #EXTVLCOPT:http-user-agent="FukoTV-Team"
 
-#EXTINF:-1 tvg-id="tt" tvg-logo="https://pbs.twimg.com/profile_images/1282948867026108417/vliFlrUU_400x400.jpg",Miễn Phí 3G/4G/5G
-https://dl240.fecbedaeeffd.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1drZFl4akRFd0ZhZEp2OFprK2VHMkp0c0VDYWdCdzR2cE50ZEM4SFhoZnNYQUJSL0NtWjRnUzNDSTl0cDJsQ3JjK28xcmI4QjFVeG5IeXJiN3hpRTRoQmVoT043RUdiMXBmWFp2cXgwbWdRQ0t3K1RBckJmOTlpK0xxbDNYS1hZc3MzNVpHK3lDL0o1YzBDZklZUHF2bnRzWHBDV1UzWnRhenZ5WXJUNzR4cVE3cXVOeVVVcDZjcTlhMEl6dzRPbkRzSGdNa0tZSzAwbWhwdDJpTjRsaEMveXBmZzl6RHgxWXViZS9URlVUMzNGWS8ybXhxNWtMcUdVUllhbG43WGE5OVBlME4ybk5LcHVrRzhMUWVLNnVyOS84djZndzdSbVU4TFdlenR4VGdGV2pTcDA9
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 HD
@@ -72,13 +70,15 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png",VTC16 HD
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="onsport" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/Lz3YTF5/t-i-xu-ng.jpg",ON Sport HD
+#EXTINF:-1 tvg-id="onsport" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://i.ibb.co/Lz3YTF5/t-i-xu-ng.jpg",ON Sport HD
 http://s2.nihontv.net:21585/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="golfhd" group-title="VTVCab - SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
+#EXTINF:-1 tvg-id="youtv" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/YouTV_logo_2014.png/revision/latest?cb=20220602001419&path-prefix=vi ",YouTV
+https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="golfhd" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 tvg-id="oshd" group-title="VTVCab - SCTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
+#EXTINF:-1 tvg-id="oshd" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
 http://s2.nihontv.net:21585/vtvcab16/index.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="VTVCab - SCTV" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 HD
+#EXTINF:-1 tvg-id="sctv22hd" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 HD
 https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htjpgpng",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
