@@ -124,67 +124,36 @@ http://210.210.155.35/uq2663/h/h143/02.m3u8
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1" tvg-logo="" group-title="Quốc Tế",All-Nippon News Network
-
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
-
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Fuji News Network HD
-
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw/live
-
-#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Quốc Tế",Hokkaido Television Broadcasting (HTB) News 24
-
+#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Hokkaido Television Broadcasting (HTB) News 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Quốc Tế",MX Live (Webcam)
-
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Quốc Tế",NHK World Nhật HD
-
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Quốc Tế",New Japan Pro Wrestling World
-
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",NTV News24 HD
-
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
-
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",TBS News
-
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Quốc Tế",Tokyo MX1
-
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Quốc Tế",Tokyo MX2
-
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Quốc Tế",Weather News
-
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9VXxnlo.png" group-title="Quốc Tế",ウェザーニュース
-
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8A
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物1
-
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物2
-
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物3
-
 http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物4
-
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
 
