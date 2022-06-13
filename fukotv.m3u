@@ -235,27 +235,13 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Quốc Tế",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 10 Albany
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGx2WHZXsrzeS-lOOv_mP6-zIszP4SxksT8TTPbHK_Qj/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 13 Houston
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBqV9KOQvd0tr5HRla25rP4/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="Quốc Tế",ABC 2 Baton Rouge LA (WBRZ-HD)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 2 Nashville TN
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ0fYwBOcHYZd_J21w6exRU/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 5 BOSTON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMFOMwMh1myfnEcsvdFcxNk/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 6 Indianapolis
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAa5wVeqjr9Aaqx5DVKSqmw/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 7 (Albuquerque)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ2DX_5xpGRjhJWF8y2_6tk/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 7 Amarillo
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPnYoPRf_8DrPwPJJgS0xwE/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JExsI09.png" group-title="Quốc Tế",ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 7 New York
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEU6wINyy8np4WETn8mYYYY/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC News Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLDp0UDNNg7rigpIYqzXb7e7Kq17it2xlLQ&usqp=CAU" group-title="Quốc Tế",ABC News Live
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136951
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AD Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
