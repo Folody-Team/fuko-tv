@@ -160,27 +160,25 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/CCTV3.png/revision/latest?cb=20220508040305&path-prefix=vi" group-title="Quốc Tế",CCTV3 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",CCTV-4 HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",CCTV-5+ HD
+#EXTINF:-1 tvg-country="" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/CCTV-4_America_2019.png/revision/latest?cb=20220316134203&path-prefix=vi ",CCTV4 HD
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest/scale-to-width-down/250?cb=20220226104121&path-prefix=vi ",CCTV5+ HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",CCTV-5 HD
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",CCTV5 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Quốc Tế",CCTV-6 HD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV6.png/revision/latest?cb=20220508063842&path-prefix=vi " group-title="Quốc Tế",CCTV-6 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Quốc Tế",CCTV-8 HD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/CCTV8.png/revision/latest/scale-to-width-down/250?cb=20220508085945&path-prefix=vi" group-title="Quốc Tế",CCTV8 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",CCTV-9 HD
+#EXTINF:-1 tvg-country="" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/CCTV9.png/revision/latest/scale-to-width-down/250?cb=20220227013822&path-prefix=vi" group-title="Quốc Tế",CCTV9 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="Quốc Tế",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Quốc Tế",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.com
-http://liveru.cgtn.com/1000r/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",NewTV HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",三明新闻综合
+#EXTINF:-1 tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijn8vQInR3uZt4YCK1Vj_jNv0nDWfmyytZWG5jcujpVYsGaqS&s" group-title="Quốc Tế",三明新闻综合
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上海外滩魔眼
 rtmp://bililive.kksmg.com/hls/sdi80
