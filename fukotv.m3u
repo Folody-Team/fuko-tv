@@ -305,23 +305,17 @@ http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137054
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BUZZR
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136956
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bally Sports Arizona HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/44317.ts
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Barstool Sports
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137036
 #EXTINF:-1 tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="Quốc Tế",Beach TV 
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bein Sports LaLiga TV HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bein Sports Xtra HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/13372.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Beto TV
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Health TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Health TV
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Life TV
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Life’s Nature Channel
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Life’s Nature Channel
 https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
