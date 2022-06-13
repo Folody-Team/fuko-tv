@@ -52,7 +52,7 @@ https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png",VTC6
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",VTC7 - TodayTV
 https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",VTC8
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -60,11 +60,11 @@ https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",VTC10
 https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",VTC11 - KidsTV
 https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc12hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi",VTC12
 https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13
+#EXTINF:-1 tvg-id="vtc134k" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",VTC13 4K
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14 HD
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
@@ -239,8 +239,6 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JExsI09.png" group-title="Quốc Tế",ABC 7 KMGH
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",ABC 7 New York
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEU6wINyy8np4WETn8mYYYY/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLDp0UDNNg7rigpIYqzXb7e7Kq17it2xlLQ&usqp=CAU" group-title="Quốc Tế",ABC News Live
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136951
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AD Sports 6
@@ -261,10 +259,6 @@ https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
 http://iptv.watchhd.cc:5050/kelevra321
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Quốc Tế",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT&T SportsNet Pittsburgh
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJXrUskTz1LcV2fbMFuv9gk/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT&T SportsNet Rocky Mountain
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDHTu33BwLpH-f2RwhDrq28/ts
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AccuWeather
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136602
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="Quốc Tế",Al Horreya TV
@@ -301,8 +295,6 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2990
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137014
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Bounce
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137054
-#EXTINF:-1 tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="Quốc Tế",BUTV10 (Boston University)
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",BUZZR
 http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136956
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Barstool Sports
@@ -381,36 +373,6 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Quốc Tế",Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1" tvg-logo="" group-title="Quốc Tế",CBS 10 AMARILLO
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIWytV0nioSwZ4GH2vaRh7I/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 10 COLUMBUS OH
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGV0VR6Kttak7YcWp1ZDJvw/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 10 TAMPA 
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG8gPK_RYjCg3dR7ab1iUjE/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 11 (SAVANNAH GA)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA6oRpYgNrd_qKjPtkyFnMo/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 11 DALLAS SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJgKhEVRflS_GRyP6Dxr64U/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 11 HOUSTON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIXNXPSto0mi49bCrZFjzck/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 12 (Chattanooga TN)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJi5vIZ_LpD-rq6et9aHzMM/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 12 (WEST PALM BEACH)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN_RysWFzFaXMpRVLf8kVfE/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 13 (Albuquerque NM)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI85IK-w4PGB0-aFYCxn7U8/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 19 Cleveland SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDJsCpXKCrVXsIfSBbE7Jyw/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 2 (Reno NV)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMtjukeMgAMz3jODGAoIqp4/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 2 Pittsburgh SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCsFie7srqkUV35bCdpzFdY/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 2 Salt Lake City
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHZb9KlTgfm635fzwb6eqZY/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 3 CHARLOTTE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM-sk_bh3yvOWz939a4TfaE/ts
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",CBS 3 PHILADELPHIA SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLJ7nCDhRBHQMjKp95KWKhI/ts
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
