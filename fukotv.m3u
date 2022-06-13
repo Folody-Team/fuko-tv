@@ -80,7 +80,7 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 http://s2.nihontv.net:21585/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="VTVCab - SCTV - HanoiCab" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 HD
 https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="VTVCab - SCTV - HanoiCab" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 306
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="VTVCab - SCTV - HanoiCab" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htjpgpng",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
