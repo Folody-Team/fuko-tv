@@ -482,7 +482,7 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dwahd" group-title="Quốc Tế" tvg-logo="https://www.vhv.rs/dpng/d/580-5808827_logo-dreamworks-logo-hd-png-download.png",DreamWorks
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thphd" group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u6EFhsVZIVSAVTkohVzogqcheEsMc8mwMA&usqp=CAU",Hải Phòng HD
-https://vtvgo-livedp.vtvdigital.vn/6bbe9ef80f8fa67b44b276b0024c8be1/1654841054273/haiphongtv/index.m3u8
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="thpplus" group-title="Địa Phương" tvg-logo="https://edge2.cdn.i-com.vn/image/236x140/smart/image.i-com.vn:1937//Uploads/files/1567243862363.png ",Hải Phòng+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
