@@ -371,45 +371,43 @@ rtp://@232.84.2.117:8826
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT _ TH TP. Cần Thơ
 rtp://@232.84.2.118:8838
 #------------------------Quốc Tế (HD)------------------------#
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animal Planet (HD 6.5Mbps)
 rtp://@232.84.3.139:10702
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",ANIMAX (HD 9Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",ANIMAX (HD 9Mbps)
 rtp://@232.84.1.18:8082
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Asian Food Network (HD 6.5Mbps)
 rtp://@232.84.2.129:9570
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",AXN (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",AXN (HD 7Mbps)
 rtp://@232.84.3.121:10660
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby TV (HD 6.5Mbps)
 rtp://@232.84.2.36:10624
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Baby TV (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby TV (HD 6.5Mbps)
 rtp://@232.84.3.128:10624
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",BBC CBeeBies (HD 9Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC CBeeBies (HD 9Mbps)
 rtp://@232.84.1.90:10398
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",BBC Earth (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Earth (HD 8Mbps)
 rtp://@232.84.3.226:11278
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",BBC Lifestyle (HD 8.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Lifestyle (HD 8.5Mbps)
 rtp://@232.84.3.225:11272
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",BBC World News (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC World News (HD 8Mbps)
 rtp://@232.84.3.224:11266
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Bloomberg HD
 rtp://@232.84.3.157:10696
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Boomerang (HD 9Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Boomerang HD
 rtp://@232.84.3.222:11254
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",BOX HITS (HD 5.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Box Hits
 rtp://@232.84.1.77:8436
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Cartoon Network (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cartoon Network HD
 rtp://@232.84.2.144:10684
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cinema World HD
 rtp://@232.84.2.172:10840
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Cinema World (HD 6.5Mbps)
-rtp://@232.84.3.103:10840
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CINEMAX (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cinemax HD
 rtp://@232.84.2.139:10654
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CINEMAX (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CINEMAX (HD 7Mbps)
 rtp://@232.84.3.117:10654
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Clubbing TV (HD 5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Clubbing TV (HD 5Mbps)
 rtp://@232.84.3.194:11086
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNA (HD 6.5Mbps)
 rtp://@232.84.2.55:10540
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
 rtp://@232.84.3.155:10540
@@ -437,216 +435,144 @@ rtp://@232.84.2.52:10522
 rtp://@232.84.3.149:10522
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 7Mbps)
 rtp://@232.84.2.138:10648
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 7Mbps)
-rtp://@232.84.3.101:10648
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HITS (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HITS HD
 rtp://@232.84.3.214:11206
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Music Box (HD 8.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Music Box HD
 rtp://@232.84.1.13:8052
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC HD (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",National Geographic HD 
 rtp://@232.84.1.1:7980
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO WILD (HD 7.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Nat Geo Wild HD
 rtp://@232.84.2.123:8454
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",NHK WORLD JAPAN (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",NHK World Japan HD
 rtp://@232.84.1.72:8406
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel HD
 rtp://@232.84.1.107:10218
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",TLC (HD 6Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",TLC HD
 rtp://@232.84.3.156:10708
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",TVE (HD 6.5Mbps)
+#EXTINF:-1 group-title="" tvg-logo="",TVE HD
 rtp://@232.84.3.205:11152
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",WBTV (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",WBTV HD
 rtp://@232.84.2.51:10516
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",WBTV (HD 7Mbps)
-rtp://@232.84.3.114:10516
-#------------------------Quốc Tế (SD)------------------------#
+
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Aljazeera
 rtp://@232.84.3.206:11158
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Animal Planet
 rtp://@232.84.1.48:8268
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",ANIMAX
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animax
 rtp://@232.84.2.143:10678
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Arirang
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Arirang
 rtp://@232.84.1.43:8238
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Asian Food Network
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Asian Food Network
 rtp://@232.84.1.115:10236
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",ABC AUSTRALIA
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",ABC Australia
 rtp://@232.84.2.244:10482
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",ABC AUSTRALIA
-rtp://@232.84.3.131:10482
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",AXN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",AXN
 rtp://@232.84.1.14:8058
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Baby First
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby First
 rtp://@232.84.3.221:11248
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",BBC CBeeBies
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC CBeeBies
 rtp://@232.84.3.200:11122
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",BBC WORLD NEWS
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC WORLD NEWS
 rtp://@232.84.2.239:10452
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Bloomberg
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Bloomberg
 rtp://@232.84.1.7:8016
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",BOX HITS
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BOX HITS
 rtp://@232.84.1.10:8034
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Cartoon Network
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cartoon Network
 rtp://@232.84.1.16:8070
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV2
 rtp://@232.84.2.240:10458
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV2
 rtp://@232.84.3.166:10458
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV4
 rtp://@232.84.3.183:11020
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV7
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV7
 rtp://@232.84.3.184:11026
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV10
 rtp://@232.84.2.170:10828
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV10
 rtp://@232.84.3.159:10828
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV12
 rtp://@232.84.3.180:11002
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV14
 rtp://@232.84.3.182:11014
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CCTV15
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CCTV15
 rtp://@232.84.3.181:11008
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Cinema World
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cinema World
 rtp://@232.84.1.44:8244
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CINEMAX
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cinemax
 rtp://@232.84.1.20:8094
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CNA
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNA
 rtp://@232.84.1.5:8004
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CNBC
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNBC
 rtp://@232.84.3.179:10488
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",CNN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNN
 rtp://@232.84.2.126:8076
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Da Vinci
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Da Vinci
 rtp://@232.84.1.108:10224
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Discovery Channel
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Discovery Channel
 rtp://@232.84.1.47:8262
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Dragon TV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Dragon TV
 rtp://@232.84.3.185:11032
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",DW (English)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",DW 
 rtp://@232.84.1.6:8010
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Fashion TV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Fashion TV
 rtp://@232.84.1.2:7986
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Filmy 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Filmy 
 rtp://@232.84.3.210:11182
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (English)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",France 24
 rtp://@232.84.2.135:9606
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (English)
-rtp://@232.84.3.145:9606
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",FRANCE 24 (Francais)
-rtp://@232.84.3.207:11164
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",HBO
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",HBO
 rtp://@232.84.1.19:8088
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",HITS
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",HITS
 rtp://@232.84.3.215:11212
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Hunan
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Hunan
 rtp://@232.84.3.188:11050
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",KBS WORLD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",KBS World
 rtp://@232.84.2.136:9612
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",MSTV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",MSTV
 rtp://@232.84.3.192:11074
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Music Box
 rtp://@232.84.2.132:9588
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Music Box
-rtp://@232.84.3.144:9588
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",NATIONAL GEOGRAPHIC
+#
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",NATIONAL GEOGRAPHIC
 rtp://@232.84.2.122:8364
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",NAT GEO PEOPLE
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Nat Geo People
 rtp://@232.84.3.162:8376
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",NHK WORLD JAPAN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",NHK World Japan
 rtp://@232.84.1.8:8022
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",NHK Premium
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",NHK Premium
 rtp://@232.84.3.172:10494
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",OPT1
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",OPT1
 rtp://@232.84.2.128:8352
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Phoenix 
 rtp://@232.84.3.191:11068
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Phoenix Infonews
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Phoenix Infonews
 rtp://@232.84.3.190:11062
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Россия PTP
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Россия PTP
 rtp://@232.84.2.127:8544
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Rai Italia
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Rai Italia
 rtp://@232.84.2.124:8358
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Russia Today
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Russia Today
 rtp://@232.84.2.125:8538
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Sahara One
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Sahara One
 rtp://@232.84.3.209:11176
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Shenzhen Satellite TV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Shenzhen Satellite TV
 rtp://@232.84.3.186:11038
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TLC
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",TLC
 rtp://@232.84.1.49:8274
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",TV5 MONDE ASIE
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",TV5 Monde Asie
 rtp://@232.84.1.45:8250
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",WBTV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",WBTV
 rtp://@232.84.1.91:10404
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Xing Kong
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Xing Kong
 rtp://@232.84.3.189:11056
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Youman
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Youman
 rtp://@232.84.3.187:11044
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",YTN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",YTN
 rtp://@232.84.3.208:11170
-#------------------------MyTV------------------------#
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",801
-rtp://@232.84.2.175:10858
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",802
-rtp://@232.84.2.176:10864
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",803
-rtp://@232.84.2.195:10954
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",804
-rtp://@232.84.2.196:10960
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Mosaic 1
-rtp://@232.84.3.174:9426
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Mosaic 2
-rtp://@232.84.3.173:9432
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Meliã Hotels International
-rtp://@232.84.2.54:10534
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Meliã Hotels International
-rtp://@232.84.1.197:11080
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Vin Group
-rtp://@232.84.1.239:10302
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu Chương Trình
-rtp://@232.84.3.195:11092
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu Chương Trình
-rtp://@232.84.1.238:10296
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu Dịch Vụ
-rtp://@232.84.1.4:7998
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Quảng Cáo
-rtp://@232.84.2.56:10546
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Feed Quốc Hội
-rtp://@232.84.3.1:10278
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Feed Event
-rtp://@232.84.3.228:11290
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình
-rtp://@232.84.3.234:11326
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình
-rtp://@232.84.3.246:11398
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Tiền Giang
-rtp://@232.84.3.229:11296
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Tiền Giang
-rtp://@232.84.3.230:11302
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Long An
-rtp://@232.84.3.236:11338
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Trà Vinh
-rtp://@232.84.3.237:11344
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ An Giang
-rtp://@232.84.3.238:11350
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Vĩnh Long
-rtp://@232.84.3.239:11356
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Học qua truyền hình _ Đồng Tháp
-rtp://@232.84.3.241:11368
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Unknown
-rtp://@232.84.2.197:10966
-#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Unknown
-rtp://@232.84.3.201:11128
-#------------------------Mua Sắm------------------------#
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping (HD 4Mbps)
-rtp://@232.84.3.254:11446
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="",ĐNRTV9 Sky Shop
-rtp://@232.84.3.135:10476
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="",VTVcab11 GS Shop
-rtp://@232.84.1.229:9348
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
-rtp://@232.84.1.142:10386
-#------------------------DRM------------------------#
+
 #EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV HD (DRM)
 rtp://@232.84.1.207:9216
 #EXTINF:-1 group-title="DRM" tvg-logo="",ON Football HD (DRM)
