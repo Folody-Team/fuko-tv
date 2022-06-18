@@ -72,7 +72,7 @@ https://mediatech.vncdn.vn/vovlive/tv1live_manifest.m3u8
 http://s2.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="HanoiCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/YouTV_logo_2014.png/revision/latest?cb=20220602001419&path-prefix=vi ",YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="HanoiCan" tvg-logo="https://i.ibb.co/0q2fJq1/hanoicab1-BEARTV.png",HiTV
+#EXTINF:-1 tvg-id="hitv" group-title="HanoiCab" tvg-logo="https://i.ibb.co/0q2fJq1/hanoicab1-BEARTV.png",HiTV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="golfhd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
