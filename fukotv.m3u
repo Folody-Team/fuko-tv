@@ -5,6 +5,8 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #EXTVLCOPT:http-user-agent="FukoTV-Team"
 
+#EXTINF:-1 tvg-id="tt" tvg-logo="https://pbs.twimg.com/profile_images/1282948867026108417/vliFlrUU_400x400.jpg",Miễn Phí 3G/4G/5G
+https://github.com/Folody-Team/fuko-tv/blob/main/vid.mp4?raw=true
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi " tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
@@ -136,6 +138,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bbn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Big Buck Bunny HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="fxmfhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/FOXFamilyMovies_%28Yellow_Pink%29_.svg/revision/latest/scale-to-width-down/250?cb=20201207010043 ",Fox Movies Family HD
 http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fxcrhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMT6mNTRU7EjC121KGAi3ViVIS8yxZffnGr-e6lDfKze5LrB1&s ",Fox Crime
