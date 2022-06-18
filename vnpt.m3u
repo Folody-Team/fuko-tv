@@ -175,11 +175,11 @@ rtp://@232.84.1.55:8310
 rtp://@232.84.3.253:11440
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZaIE9WA.png",Hòa Bình
 rtp://@232.84.3.213:11200
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 HD _ TH Thái Nguyên (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/NmObKjO.png",Thái Nguyên 1 HD
 rtp://@232.84.3.146:10774
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV HD _ TH Phú Thọ (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/QFDB4wh.png",Phú Thọ HD
 rtp://@232.84.3.148:10792
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV HD _ TH Cao Bằng (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng HD
 rtp://@232.84.3.202:11134
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vFEB8Bv.png",LSTV HD _ TH Lạng Sơn (HD 8.5Mbps)
 rtp://@232.84.3.203:11140
