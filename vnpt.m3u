@@ -371,25 +371,23 @@ rtp://@232.84.2.117:8826
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT _ TH TP. Cần Thơ
 rtp://@232.84.2.118:8838
 #------------------------Quốc Tế (HD)------------------------#
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animal Planet (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animal Planet HD
 rtp://@232.84.3.139:10702
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",ANIMAX (HD 9Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animax HD
 rtp://@232.84.1.18:8082
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Asian Food Network (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Asian Food Network HD
 rtp://@232.84.2.129:9570
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",AXN (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",AXN HD
 rtp://@232.84.3.121:10660
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby TV (HD 6.5Mbps)
-rtp://@232.84.2.36:10624
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby TV (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Baby TV HD
 rtp://@232.84.3.128:10624
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC CBeeBies (HD 9Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC CBeebies HD
 rtp://@232.84.1.90:10398
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Earth (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Earth HD
 rtp://@232.84.3.226:11278
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Lifestyle (HD 8.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC Lifestyle HD
 rtp://@232.84.3.225:11272
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC World News (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",BBC World News HD
 rtp://@232.84.3.224:11266
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Bloomberg HD
 rtp://@232.84.3.157:10696
@@ -403,60 +401,48 @@ rtp://@232.84.2.144:10684
 rtp://@232.84.2.172:10840
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Cinemax HD
 rtp://@232.84.2.139:10654
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CINEMAX (HD 7Mbps)
-rtp://@232.84.3.117:10654
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Clubbing TV (HD 5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Clubbing TV HD
 rtp://@232.84.3.194:11086
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNA (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNA HD
 rtp://@232.84.2.55:10540
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CNA (HD 6.5Mbps)
-rtp://@232.84.3.155:10540
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",CNN (HD 6Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",CNN HD
 rtp://@232.84.3.153:10690
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Da Vinci (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Da Vinci HD
 rtp://@232.84.2.131:9582
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 7Mbps)
-rtp://@232.84.2.53:10528
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Discovery Channel HD
 rtp://@232.84.3.132:10528
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Discovery Asia (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Discovery Asia HD
 rtp://@232.84.3.219:11236
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Dreamworks (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Dreamworks HD
 rtp://@232.84.3.227:11284
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 6Mbps)
-rtp://@232.84.2.233:10416
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 6Mbps)
-rtp://@232.84.3.154:10416
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",DW (English) (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",DW HD
 rtp://@232.84.3.168:10428
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 6.5Mbps)
-rtp://@232.84.2.52:10522
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Fashion TV HD
 rtp://@232.84.3.149:10522
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 7Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",HBO HD
 rtp://@232.84.2.138:10648
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",HITS HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",HITS HD
 rtp://@232.84.3.214:11206
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Music Box HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Music Box HD
 rtp://@232.84.1.13:8052
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",National Geographic HD 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",National Geographic HD 
 rtp://@232.84.1.1:7980
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Nat Geo Wild HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Nat Geo Wild HD
 rtp://@232.84.2.123:8454
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",NHK World Japan HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",NHK World Japan HD
 rtp://@232.84.1.72:8406
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Outdoor Channel HD
 rtp://@232.84.1.107:10218
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",TLC HD
 rtp://@232.84.3.156:10708
-#EXTINF:-1 group-title="" tvg-logo="",TVE HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",TVE HD
 rtp://@232.84.3.205:11152
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",WBTV HD
 rtp://@232.84.2.51:10516
 
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Aljazeera
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Aljazeera
 rtp://@232.84.3.206:11158
-#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="",Animal Planet
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animal Planet
 rtp://@232.84.1.48:8268
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animax
 rtp://@232.84.2.143:10678
@@ -573,35 +559,35 @@ rtp://@232.84.3.187:11044
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",YTN
 rtp://@232.84.3.208:11170
 
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV HD (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Sports TV HD (DRM)
 rtp://@232.84.1.207:9216
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Football HD (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Football HD (DRM)
 rtp://@232.84.1.210:9234
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports News HD (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Sports News HD (DRM)
 rtp://@232.84.2.193:10942
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Golf HD (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Golf HD (DRM)
 rtp://@232.84.2.246:10876
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports TV (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Sports TV (DRM)
 rtp://@232.84.1.208:9222
-#EXTINF:-1 group-title="DRM" tvg-logo="",VTVcab5 E Channel (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",VTVcab5 E Channel (DRM)
 rtp://@232.84.1.193:9132
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Sports+ (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Sports+ (DRM)
 rtp://@232.84.1.220:9294
-#EXTINF:-1 group-title="DRM" tvg-logo="",ON Football (DRM)
+#EXTINF:-1 group-title="VTVCab" tvg-logo="",ON Football (DRM)
 rtp://@232.84.1.138:8802
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Cine HD (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Cine HD (DRM)
 rtp://@232.84.1.122:10314
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Life HD (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Life HD (DRM)
 rtp://@232.84.1.123:10320
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 1 HD (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Sports 1 HD (DRM)
 rtp://@232.84.1.125:10326
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 2 HD (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Sports 2 HD (DRM)
 rtp://@232.84.1.176:10374
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Cine (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Cine (DRM)
 rtp://@232.84.1.96:8550
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Life (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Life (DRM)
 rtp://@232.84.1.97:8556
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 1 (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Sports 1 (DRM)
 rtp://@232.84.1.98:8562
-#EXTINF:-1 group-title="DRM" tvg-logo="",K+ Sports 2 (DRM)
+#EXTINF:-1 group-title="K+" tvg-logo="",K+ Sports 2 (DRM)
 rtp://@232.84.1.131:10368
