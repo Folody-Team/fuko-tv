@@ -102,6 +102,8 @@ https://livecdn.fptplay.net/sdb/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/HTVC_Ph%E1%BB%A5_N%E1%BB%AF_logo_vertical.png/revision/latest/scale-to-width-down/210?cb=20220428034053&path-prefix=vi",HTVC Phụ nữ
 https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvcpn" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
+https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fxmfhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/FOXFamilyMovies_%28Yellow_Pink%29_.svg/revision/latest/scale-to-width-down/250?cb=20201207010043 ",Fox Movies Family HD
 http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
