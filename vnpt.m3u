@@ -181,53 +181,49 @@ rtp://@232.84.3.146:10774
 rtp://@232.84.3.148:10792
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng HD
 rtp://@232.84.3.202:11134
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vFEB8Bv.png",LSTV HD _ TH Lạng Sơn (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/vFEB8Bv.png",Lạng Sơn HD
 rtp://@232.84.3.203:11140
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 HD _ TH Quảng Ninh (HD 5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/jOutDk2.png",Quảng Ninh 1 HD
 rtp://@232.84.1.248:10978
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FXn4W5C.png",QTV3 HD _ TH Quảng Ninh (HD 5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/FXn4W5C.png",Quảng Ninh 3 HD
 rtp://@232.84.1.249:10984
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/t2s5M6k.png",BTV _ TH Bắc Ninh (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/t2s5M6k.png",Bắc Ninh HD
 rtp://@232.84.2.245:10506
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 HD _ TH Hà Nội (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",Hà Nội 1 HD
 rtp://@232.84.3.143:10738
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9lscH4N.jpg",H2 HD_ TH Hà Nội (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/9lscH4N.jpg",Hà Nội 2 HD
 rtp://@232.84.3.137:10744
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HZluJKB.png",THP HD _ TH TP. Hải Phòng (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/HZluJKB.png",Hải Phòng HD
 rtp://@232.84.3.142:10780
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY HD _ TH Hưng Yên (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/rIV7Na3.png",Hưng Yên HD
 rtp://@232.84.3.110:10786
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dZjhLJd.png",TTV HD _ TH Thanh Hóa (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/dZjhLJd.png",Thanh Hóa HD
 rtp://@232.84.3.198:11110
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/pUtPrig.png",NTV HD _ TH Nghệ An (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/pUtPrig.png",Nghệ An HD
 rtp://@232.84.2.198:10972
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NNbenRy.png",HTTV HD _ TH Hà Tĩnh (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/NNbenRy.png",Hà Tĩnh HD
 rtp://@232.84.3.134:10768
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ _ TH Quảng Ngãi (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/Xh6cZmD.png",Quảng Ngãi HD
 rtp://@232.84.3.126:10798
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",BTV1 HD _ TH Bình Dương (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",Bình Dương 1 HD
 rtp://@232.84.3.109:10750
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/dG7w5h6.png",Bình Dương 4 HD
 rtp://@232.84.2.156:10756
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/glzn3Lj.png",BTV9 An Viên HD (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/glzn3Lj.png",Bình Dương 9 HD
 rtp://@232.84.3.199:11116
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 7Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/zUKKdCf.png",Đồng Nai 1 HD
 rtp://@232.84.3.112:10762
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/EH5ogzk.png",THTG HD _ TH Tiền Giang (HD 8.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/EH5ogzk.png",Tiền Giang HD
 rtp://@232.84.3.204:11146
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/mDQssNg.jpg",Vĩnh Long 1 HD
 rtp://@232.84.2.183:10882
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",Vĩnh Long 2 HD
 rtp://@232.84.2.184:10888
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
-rtp://@232.84.3.152:10882
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
-rtp://@232.84.3.164:10888
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",Vĩnh Long 3 HD
 rtp://@232.84.3.165:10900
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
 rtp://@232.84.3.160:10912
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2U316M0.png",KG _ TH Kiên Giang (HD 4Mbps)
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/2U316M0.png",Kiên Giang HD
 rtp://@232.84.3.161:10918
 #------------------------Địa Phương (SD)------------------------#
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/N5tsSuk.png",THLC _ TH Lào Cai
