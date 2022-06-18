@@ -79,7 +79,9 @@ https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="oshd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
 http://s2.nihontv.net:21585/vtvcab16/index.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="SCTV" tvg-logo="",SCTV3
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="",SCTV1 HD
+https://vtsstr1.tv24.vn/livesctv/smil:SCTV_HD_Hai_KCN.smil/chunklist_w1903255634_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjU1NTM0OTc4Jndvd3phdG9rZW5lbmR0aW1lPTE2NTU1NDI0Nzgmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD01LW9rdkJ0N3ROOFM1YzhCQldyUGg4R0JtMk1kc09yZ1pDcFdXQ0FZbHYwPQ==.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="",SCTV3
 https://vtsstr6.tv24.vn/livesctv/smil:SCTV3_SD_ThieuNhi.smil/chunklist_w2028815352_b4692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjU1NTM2MzQwJndvd3phdG9rZW5lbmR0aW1lPTE2NTU1NDM4NDAmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD0zS3llTGdERjhQY0pzeFlvS2FqcGZwWEhKb1NhR05DcXRiekZuX2tfQ3pRPQ==.m3u8
 #EXTINF:-1 tvg-id="sctv2" group-title="SCTV" tvg-logo="",SCTV2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/chunklist_w1352236560_b2692000.m3u8
