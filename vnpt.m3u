@@ -82,7 +82,7 @@ rtp://@232.84.1.244:9438
 rtp://@232.84.2.192:10936
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 - Yeah1!TV
 rtp://@232.84.1.217:9276
-EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab20 - VFamily
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVcab20 - VFamily
 rtp://@232.84.1.245:10344
  
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
