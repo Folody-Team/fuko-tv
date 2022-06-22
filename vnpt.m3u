@@ -182,11 +182,9 @@ rtp://@232.84.3.125:10434
 #EXTINF:-1 group-title="Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD
 rtp://@232.84.1.212:9246
 
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV HD
-rtp://@232.84.2.171:10834
 #EXTINF:-1 group-title="HanoiCab" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
 rtp://@232.84.1.55:8310
-#------------------------Địa phương (HD)------------------------#
+
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/6tey10m.png",Yên Bái HD
 rtp://@232.84.3.253:11440
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZaIE9WA.png",Hòa Bình
@@ -241,7 +239,7 @@ rtp://@232.84.3.165:10900
 rtp://@232.84.3.160:10912
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/2U316M0.png",Kiên Giang HD
 rtp://@232.84.3.161:10918
-#------------------------Địa Phương (SD)------------------------#
+
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/N5tsSuk.png",Lào Cai
 rtp://@232.84.2.93:8718
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/6tey10m.png",Yên Bái
@@ -370,21 +368,23 @@ rtp://@232.84.1.196:9150
 rtp://@232.84.3.151:10894
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ApI30Uc.png",Vĩnh Long 4
 rtp://@232.84.3.150:10906
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/tE10QDW.jpg",THTV _ TH Trà Vinh
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/tE10QDW.jpg",Trà Vinh
 rtp://@232.84.2.102:9114
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/dc3Tot6.png",HGTV _ TH Hậu Giang
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/dc3Tot6.png",Hậu Giang
 rtp://@232.84.2.112:8940
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/2U316M0.png",KG _ TH Kiên Giang
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/2U316M0.png",Kiên Giang
 rtp://@232.84.2.113:8964
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/z7bCa6s.png",STV1 _ TH Sóc Trăng
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/z7bCa6s.png",óc Trăng
 rtp://@232.84.2.103:9072
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/EdAK0v2.jpg",BLTV _ TH Bạc Liêu
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/EdAK0v2.jpg",Bạc Liêu
 rtp://@232.84.2.116:8766
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV _ TH Cà Mau
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",Cà Mau
 rtp://@232.84.2.117:8826
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT _ TH TP. Cần Thơ
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/sFEBJSE.png",Cần Thơ
 rtp://@232.84.2.118:8838
-#------------------------Quốc Tế (HD)------------------------#
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV HD
+rtp://@232.84.2.171:10834
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animal Planet HD
 rtp://@232.84.3.139:10702
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Animax HD
@@ -534,7 +534,7 @@ rtp://@232.84.2.136:9612
 rtp://@232.84.3.192:11074
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",Music Box
 rtp://@232.84.2.132:9588
-#
+
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="",NATIONAL GEOGRAPHIC
 rtp://@232.84.2.122:8364
