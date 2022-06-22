@@ -70,7 +70,7 @@ rtp://@232.84.1.143:8832
 rtp://@232.84.1.168:8982
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",VTVcab7 - Sức khỏe và Cuộc sống
 rtp://@232.84.1.26:8130
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab 8 BiBi
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVcab8 - BiBi
 rtp://@232.84.1.206:9210
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab9 - Info TV
 rtp://@232.84.2.191:10930
