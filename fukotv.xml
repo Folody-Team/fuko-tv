@@ -2,7 +2,7 @@ IptvConfig version="2">
 <Playlists>
 <Playlist>
 <Name>FukoTV.vn</Name>
-<Url>https://tinyurl.com/fukotv</Url>
+<Url>https://raw.githubusercontent.com/Folody-Team/fuko-tv/main/fukotv.m3u </Url>
 <AccessTime>1655872640695</AccessTime>
 <CatchupType>3</CatchupType>
 <CatchupTemplate/>
@@ -10,7 +10,7 @@ IptvConfig version="2">
 </Playlist>
 <Playlist>
 <Name/>
-<Url>https://rotf.lol/ivnpt</Url>
+<Url>https://raw.githubusercontent.com/Folody-Team/fuko-tv/main/vnpt.m3u</Url>
 <AccessTime>1656061424078</AccessTime>
 <CatchupType>3</CatchupType>
 <CatchupTemplate/>
