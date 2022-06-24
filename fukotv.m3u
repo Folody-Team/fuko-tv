@@ -74,9 +74,9 @@ http://s2.nihontv.net:21585/vtvcab3/index.m3u8
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="HanoiCab" tvg-logo="https://i.ibb.co/0q2fJq1/hanoicab1-BEARTV.png",HiTV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
-#EXTINF:-1 tvg-id="golfhd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
+#EXTINF:-1 tvg-id="Thể Thao" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 tvg-id="oshd" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
+#EXTINF:-1 tvg-id="Thể Thao" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
 http://s2.nihontv.net:21585/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/SCTV1_HD.png/revision/latest?cb=20210711132850&path-prefix=vi",SCTV1 HD
 https://vtsstr1.tv24.vn/livesctv/smil:SCTV_HD_Hai_KCN.smil/chunklist_w1903255634_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjU1NTM0OTc4Jndvd3phdG9rZW5lbmR0aW1lPTE2NTU1NDI0Nzgmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD01LW9rdkJ0N3ROOFM1YzhCQldyUGg4R0JtMk1kc09yZ1pDcFdXQ0FZbHYwPQ==.m3u8
@@ -94,7 +94,7 @@ https://vtsstr6.tv24.vn/live/SCTV8_SD_new.smil/chunklist_w401802493_b2692000.m3u
 https://vtsstr6.tv24.vn/live/SCTV12_HD_new.smil/chunklist_w49954492_b2692000.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://lichtruyenhinh.net/storage/images/522918f29e353da53bfdb4861f11fa5d.png",SCTV22 HD
 https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w1090136067_b1692000.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="SCTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 360
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="Phim" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv13" group-title="SCTV" tvg-logo="",SCTV13 HD - LadyTV
 https://vtsstr1.tv24.vn/livesctv/smil:SCTV13_HD_KCN.smil/chunklist_w2123448108_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjU1NTM2Mzg0Jndvd3phdG9rZW5lbmR0aW1lPTE2NTU1NDM4ODQmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD1feUM0OU5vWnVCdVhQRVNoTHIxX2ZOTVI4SUhuZFh3UjJFUG93YmNmcTA0PQ==.m3u8
@@ -253,13 +253,11 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8A
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Quốc Tế",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",YTN HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
-#EXTINF:-1 tvg-id="espnhd" group-title="Thể Thao" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
+#EXTINF:-1 tvg-id="espnhd" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn2hd" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
+#EXTINF:-1 tvg-id="espn2hd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id="rbhd" group-title="Thể Thao" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
+#EXTINF:-1 tvg-id="rbhd" group-title="Quốc Tế" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
@@ -280,12 +278,8 @@ http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Quốc Tế",Bayon TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Quốc Tế",Channel 5 HD
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Quốc Tế",News 1
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế", Comet TV
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Quốc Tế",CCX Media Minnesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="Quốc Tế",USA:Newsy
@@ -338,18 +332,8 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="Quốc Tế",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Quốc Tế",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Quốc Tế",AKC TV - Meet the Breeds
-https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Quốc Tế",AKC TV - Puppies
-https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AMC HD
-http://iptv.watchhd.cc:5050/kelevra321
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Quốc Tế",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AccuWeather
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136602
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="Quốc Tế",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",Alcarria TV
@@ -358,8 +342,6 @@ http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Quốc Tế",Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Quốc Tế",All Reality WE TV
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136982
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Quốc Tế",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Quốc Tế",American Horrors
@@ -372,8 +354,6 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="Quốc Tế",Beach TV 
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Beto_O%27Rourke_2020_presidential_campaign_logo.svg/1200px-Beto_O%27Rourke_2020_presidential_campaign_logo.svg.png" group-title="Quốc Tế",Beto TV
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Health TV
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Quốc Tế",Better Life TV
