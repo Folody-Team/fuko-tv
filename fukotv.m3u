@@ -145,7 +145,7 @@ https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hdbm" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAwrg9Aga2oMvgzFLBBgwDBCZEBiF099zxg&usqp=CAU ",Hits Movies HD
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="fsnhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604",Fox Sport News HD
+#EXTINF:-1 tvg-id="fsnhd" group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604",Fox Sport News HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="Quốc Tế",Arirang Korean HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -164,10 +164,8 @@ http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Quốc Tế",NHK World Nhật HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Quốc Tế",NHK World Japan HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Quốc Tế",New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/CCTV7.png/revision/latest/scale-to-width-down/250?cb=20220508085941&path-prefix=vi" group-title="Quốc Tế",CCTV7 HD
 http://183.207.249.36/PLTV/4/224/3221227314/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CCTV10.png/revision/latest?cb=20220508090154&path-prefix=vi" group-title="Quốc Tế",CCTV10 HD
@@ -251,25 +249,17 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9VXxnlo.png" group-title="Quốc Tế",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Quốc Tế",日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 #EXTINF:-1 tvg-id="gemindo" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest?cb=20201126072306",Gem HD
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Quốc Tế",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",YTN HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
-#EXTINF:-1 tvg-id="espnhd" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
+#EXTINF:-1 tvg-id="espnhd" group-title="Thể Thao" tvg-logo="https://play-lh.googleusercontent.com/Eo3OTJ7busmyJqJGE9IZFs-uAtF-FuvVQCvuLqFXgK8xe6MgcNL76qaBztGxpgPOoOI=w512",ESPN HD
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn2hd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
+#EXTINF:-1 tvg-id="espn2hd" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN2 HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id="rbhd" group-title="Quốc Tế" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
+#EXTINF:-1 tvg-id="rbhd" group-title="Thể Thao" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
