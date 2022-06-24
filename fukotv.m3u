@@ -23,20 +23,8 @@ https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9e/VTV9_HD.png/640px-VTV9_HD.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD 
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD VNPT
-rtp://@232.84.1.117:10254
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi",VTV2 HD VNPT
-rtp://@232.84.2.31:10594
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/VTV3_HD_logo_ch%C3%ADnh_2013-2014.png/revision/latest?cb=20220316004443&path-prefix=vi",VTV3 HD VNPT
-rtp://@232.84.1.118:10260
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8c/Logo_VTV4_HD.png/revision/latest?cb=20201231093755&path-prefix=vi",VTV4 HD VNPT 
-rtp://@232.84.3.106:10600
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTV5_HD.png/revision/latest?cb=20201123051540&path-prefix=vi",VTV5 HD VNPT
-rtp://@232.84.2.33:10606
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/VTV6_HD_logo_2013-2014.png/revision/latest?cb=20201228132708&path-prefix=vi",VTV6 HD VNPT
-rtp://@232.84.1.119:10266
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/VTV7_HD-0.png/revision/latest?cb=20200401224019&path-prefix=vi",VTV7 HD VNPT
-rtp://@232.84.2.202:10996
+#EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD RTP
+https://dl.hieudev10.repl.co/vtv1hd
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
