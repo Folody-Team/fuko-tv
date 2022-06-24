@@ -1,5 +1,4 @@
 #EXTM3U Chỉ dùng được cho mạng VNPT
-#EXTM3U Vui lòng lên chi nhánh VNPT khai báo mở luồng RTP để sử dụng
 #EXTM3U Để biết thêm chi tiết,vui lòng liên hệ với RebootCyOS#9538
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD 
 rtp://@232.84.1.117:10254
