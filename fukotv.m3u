@@ -296,20 +296,8 @@ http://30a-tv.com/music.m3u8
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Quốc Tế",30A TV
 http://30a-tv.com/my999.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Quốc Tế",3ABN Dare to Dream
-https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="Quốc Tế", 3ABN Français
-https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Quốc Tế",3ABN International
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="Quốc Tế",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Quốc Tế",3ABN Latino
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiMtKUL.png" group-title="Quốc Tế",3ABN Proclaim
-https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fKWpo3.png" group-title="Quốc Tế",3ABN Russia
-https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="Quốc Tế",3News Now (KMTV-TV)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Quốc Tế",5TV Corrientes
