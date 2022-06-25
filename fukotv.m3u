@@ -144,8 +144,6 @@ http://live.cgtn.com/1000/prog_index.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijn8vQInR3uZt4YCK1Vj_jNv0nDWfmyytZWG5jcujpVYsGaqS&s" group-title="Quốc Tế",三明新闻综合
 http://stream.smntv.cn/smtv1/sd/live.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上海外滩魔眼
-rtmp://bililive.kksmg.com/hls/sdi80
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上海这一刻魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Quốc Tế",上虞1新闻综合
@@ -275,8 +273,6 @@ https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="Quốc Tế",Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="Quốc Tế",BlazeTV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Quốc Tế",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Quốc Tế",Thai PBS 3
