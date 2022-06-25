@@ -109,12 +109,8 @@ https://mediatech.vncdn.vn/vovlive/tv1live_manifest.m3u8
 http://s2.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="HanoiCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/YouTV_logo_2014.png/revision/latest?cb=20220602001419&path-prefix=vi ",YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="HanoiCab" tvg-logo="https://i.ibb.co/0q2fJq1/hanoicab1-BEARTV.png",HiTV
-https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-id="vtvcab" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2703.jpg",ON Golf HD
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtvcab" group-title="VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg",ON Football HD
-http://s2.nihontv.net:21585/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg" tvg-chno="40" group-title="Phim" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,Film 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
