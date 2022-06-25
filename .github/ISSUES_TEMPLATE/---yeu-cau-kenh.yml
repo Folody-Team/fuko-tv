@@ -1,0 +1,41 @@
+name: 📺 Yêu cầu thêm kênh
+description: Yêu cầu thêm kênh vào list IPTV
+title: 'Thêm kênh: '
+labels: ['yeu cau kenh']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vui lòng điền vào mẫu vấn đề nhiều nhất có thể để chúng tôi có thể xử lý yêu cầu của bạn một cách hiệu quả
+  - type: input
+    attributes:
+      label: Tên kênh
+      description: Tên đầy đủ của kênh. Bạn nên sử dụng tên được liệt kê trên [lyngsat] (https://www.lyngsat.com/search.html) hoặc [wikipedia] (https://www.wikipedia.org/) nếu có thể.
+      placeholder: 'VTV1HD'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Website
+      description: Website nào đã host kênh này?
+      placeholder: 'https://wap.vtvgo.vn'
+
+  - type: input
+    attributes:
+      label: Link phát
+      description: Liên kết phát kênh (*.m3u/.m3u8/.mpd/.mp3/mp4)
+      placeholder: 'https://wap.vtvgo.vn/vtv1hd.m3u8'
+
+  - type: textarea
+    attributes:
+      label: Lưu ý
+      description: 'Bất cứ điều gì khác nên biết về link phát này?'
+
+  - type: checkboxes
+    attributes:
+      label: Vui lòng xác nhận những điều sau
+      options:
+        - label: TÔI KHÔNG LÀM BẤT KỲ ĐIỀU GÌ SAI TRÁI (PHẢN ĐỐI/CHỐNG LẠI ĐẢNG hoặc NHÀ NƯỚC,CHỨA NHỮNG NỘI DUNG KHIÊU DÂM 18+)
+          required: true
