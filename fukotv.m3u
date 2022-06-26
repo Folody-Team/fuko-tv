@@ -152,7 +152,8 @@ https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcpn" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/HTVC_Phim_2014.png/revision/latest/scale-to-width-down/200?cb=20210131021645&path-prefix=vi",HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="ktvhq" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rnd6kk3hqckvormc32uu",KoreaTV HD
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="hbop" group-title="Quốc Tế - HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO+
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1 tvg-id="hbos" group-title="Quốc Tế - HBO" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Singature
@@ -162,7 +163,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="Quốc Tế - Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-id="bflixmv" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Bflix-Movies-Logo.jpg",Bflix Movies
-https://1000logos.net/wp-content/uploads/2021/12/Bflix-Movies-Logo.jpg
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="outside" group-title="Quốc Tế" tvg-logo="https://mms.businesswire.com/media/20210916005241/en/906819/22/Outside_digital_TM_logo_2021.jpg",Outside HD
 https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1golf" group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg ",One Golf HD
