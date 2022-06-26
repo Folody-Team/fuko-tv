@@ -2,6 +2,6 @@
 
 #EXTINF:-1,dỗi rồi ko thèm làm nữa <3
 mailto:nghuyhieu2810@mail.folody.xyz
-#EXTINF:-1,browse local
-http://127.0.0.1:80
+#EXTINF:-1,RTP -> localhost
+rtp://@127.0.0.1:80
 #localhost:80
