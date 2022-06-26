@@ -428,7 +428,7 @@ http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebsp1hd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNEdsCtjbU1HBiQX0ypl9iLguTpikJd3YDZemv_lt9umhzxXy&s",EBS 1 Plus HD
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="ebsp2hd" group-title="Quốc Tế - Hàn Quốc (tổng họp)" tvg-logo="https://obj-sg.thewiki.kr/data/4542532b322e706e67.png",EBS 2 Plus HD
+#EXTINF:-1 tvg-id="ebsp2hd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://obj-sg.thewiki.kr/data/4542532b322e706e67.png",EBS 2 Plus HD
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="channelahd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="",Channel A
 http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
