@@ -247,9 +247,9 @@ http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 https://edge4-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="rbhd" group-title="Quốc Tế" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_105,y_0,h_814,w_905/c_fill,w_860,h_782/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",RedBull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
+#EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon S2
+#EXTINF:-1 group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon S2
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 tvg-id="fxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
@@ -353,7 +353,7 @@ http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="spohd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxJJeghunEO2o9cOdGJuETXP_UN1VgHgWTQ&usqp=CAU",SPO TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 tvg-id="ebskhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcMtUe9LYosEd34B8SgaPUFqKFihp0fuYNA&usqp=CAU",EBS Kids
+#EXTINF:-1 tvg-id="ebskhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcMtUe9LYosEd34B8SgaPUFqKFihp0fuYNA&usqp=CAU",EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ebsehd" group-title="Quốc Tế - Hàn Quốc (tổng hợp)" tvg-logo="https://rlgvcnjx4.toastcdn.net/images/h1.svg",EBS English
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
@@ -373,9 +373,9 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Animax HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Animax HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax Japan HD
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax Japan HD
 http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvjp" group-title="Quốc Tế - Nhật Bản (tổng hợp)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/1077px-MTV_Music_2021_logo.svg.png",MusicTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
@@ -396,7 +396,7 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cartoon Network HD
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
@@ -452,9 +452,9 @@ https://vips-livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500
 https://vips-livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8#EXTINF:-1 tvg-id="channelvhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/892px-Channel_V_Logo.svg.png",Channel [V]
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV
 http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytv" group-title="Quốc Tế" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2c660238ffec78dde85554a81a5b3274.jpeg",BabyTV
+#EXTINF:-1 tvg-id="babytv" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2c660238ffec78dde85554a81a5b3274.jpeg",BabyTV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dwahd" group-title="Quốc Tế" tvg-logo="https://www.vhv.rs/dpng/d/580-5808827_logo-dreamworks-logo-hd-png-download.png",DreamWorks
+#EXTINF:-1 tvg-id="dwahd" group-title="Quốc Tế - Thiếu Nhi" tvg-logo="https://www.vhv.rs/dpng/d/580-5808827_logo-dreamworks-logo-hd-png-download.png",DreamWorks
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thphd" group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u6EFhsVZIVSAVTkohVzogqcheEsMc8mwMA&usqp=CAU",Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/playlist.m3u8
