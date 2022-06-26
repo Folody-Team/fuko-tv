@@ -169,9 +169,9 @@ https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="bbn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/IOS_TV_app_%28USA%29.png/revision/latest?cb=20180203210038 ",Big Buck Bunny HD
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="fxmfhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/FOXFamilyMovies_%28Yellow_Pink%29_.svg/revision/latest/scale-to-width-down/250?cb=20201207010043 ",Fox Movies Family HD
+#EXTINF:-1 tvg-id="fxmfhd" group-title="Quốc Tế - Fox" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/FOXFamilyMovies_%28Yellow_Pink%29_.svg/revision/latest/scale-to-width-down/250?cb=20201207010043 ",Fox Movies Family HD
 http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fxcrhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMT6mNTRU7EjC121KGAi3ViVIS8yxZffnGr-e6lDfKze5LrB1&s ",Fox Crime
+#EXTINF:-1 tvg-id="fxcrhd" group-title="Quốc Tế - Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMT6mNTRU7EjC121KGAi3ViVIS8yxZffnGr-e6lDfKze5LrB1&s ",Fox Crime
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="smhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -356,7 +356,7 @@ http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="ft" group-title="Quốc Tế" tvg-logo="https://cdn.shopify.com/s/files/1/2435/6313/products/Fish-Tank-TV-GreyWhite-15-Litres-4_f38ea410-9d0f-42f4-bd6e-c13beab5fbc4_1400x.jpg?v=1628960088",FishTank HD
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế - Phim Tổng Hợp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
